@@ -14,6 +14,11 @@ _____
 
 _____
 
+## Crédito
+
+Esse repositório é uma cópia do Fórum da comunidade [Frontend-Brasil](https://github.com/frontendbr/forum).
+Esperamos que a comunidade de Flutter prospere com essa maneira inovadora de conectar a comunidade.
+
 ## Propósito
 
 Uma [conversa no Twitter](https://twitter.com/felipefialho_/status/693111161856921600) foi o gatilho que precisávamos.
