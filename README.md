@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/frontendbr/brand/f33a3aa9/src/png/logo-600px--horizontal--color.png" width="400" alt="Front-end Brasil">
+<img src="https://raw.githubusercontent.com/flutterando/.github/main/assets/1128x191.png" width="400" alt="Front-end Brasil">
 </p>
 <h1 align="center">Fórum</h1>
 <p align="center">:beer: Portando discussões feitas em grupos para o GitHub.</p>
