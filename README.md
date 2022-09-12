@@ -19,19 +19,9 @@ _____
 Esse repositório é uma cópia do Fórum da comunidade [Frontend-Brasil](https://github.com/frontendbr/forum).
 Esperamos que a comunidade de Flutter prospere com essa maneira inovadora de conectar a comunidade.
 
-## Propósito
+## Objetivo
 
-Uma [conversa no Twitter](https://twitter.com/felipefialho_/status/693111161856921600) foi o gatilho que precisávamos.
-
-<img width="650" alt="Começo do Front-end BR" src="https://user-images.githubusercontent.com/3603793/58209958-7a5c2380-7cbe-11e9-8c7b-b1889eea9fe2.png">
-
-Alguns posts em grupos de front-end em redes sociais geram debates legais que poderiam ser disponibilizados em local melhor estruturado para tal. A busca do Facebook em grupos, por exemplo, tem vários problemas. Discussões épicas foram perdidas, e pessoas que ingressam agora nos grupos não tem mais acesso a esses posts.
-
-A ideia desse repositório é portar ou iniciar essas discussões no GitHub. Estando no GitHub, fica mais fácil procurar respostas a perguntas já respondidas por esses grupos.
-
-O objetivo é unificar todas as discussões em um só local, e o GitHub foi o escolhido para isso.
-
-Em 2017, depois de tantas conquistas (empregos, conhecimento e networking) e elogios (por parte do TechLead do GitHub), nos tornamos a **comunidade oficial do evento InterCon do iMasters**.
+Tornar isso em um repositório de dúvidas e discursões usando a ferramenta de issues do Github, além de manter guardadas todas as discursões e dúvidas respondidas para uma pesquisa futura.
 
 ## Vantagens do GitHub
 
