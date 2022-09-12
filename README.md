@@ -1,15 +1,15 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/flutterando/.github/main/assets/1128x191.png" width="400" alt="Front-end Brasil">
+<img src="https://raw.githubusercontent.com/flutterando/.github/main/assets/1128x191.png" alt="Flutterando">
 </p>
 <h1 align="center">Fórum</h1>
-<p align="center">:beer: Portando discussões feitas em grupos para o GitHub.</p>
+<p align="center">Respondendo a dúvidas sobre Flutter e Dart</p>
 
 > **Disclaimer:** _As opiniões aqui publicadas são de inteira responsabilidade de seus autores e não refletem, necessariamente, o posicionamento da organização._
 
 _____
 
 <p align="center">
-  <a href="https://github.com/frontendbr/forum/discussions"><img src="https://github.com/frontendbr/forum/raw/ff96068c309b022d15fec77586c1990097af0406/btn.png" alt="FrontEndBR" width="119" /></a>
+  <a href="https://github.com/Flutterando/forum/discussions"><img src="https://github.com/frontendbr/forum/raw/ff96068c309b022d15fec77586c1990097af0406/btn.png" alt="Flutterando" width="119" /></a>
 </p>
 
 _____
