@@ -21,7 +21,7 @@ Esperamos que a comunidade de Flutter prospere com essa maneira inovadora de con
 
 ## Objetivo
 
-Tornar isso em um repositório de dúvidas e discursões usando a ferramenta de issues do Github, além de manter guardadas todas as discursões e dúvidas respondidas para uma pesquisa futura.
+Tornar isso em um repositório de dúvidas e discursões usando a ferramenta de "discussions" do Github, além de manter guardadas todas as discursões e dúvidas respondidas para uma pesquisa futura.
 
 ## Vantagens do GitHub
 
@@ -87,8 +87,8 @@ Concentre suas perguntas em problemas reais. Inclua detalhes sobre o que você t
 O ideal é que antes de criar uma dúvida você tente resolver o problema sozinho, na grande maioria das vezes uma breve busca no Google pode te ajudar a encontrar uma solução.
 
 Pergunte sobre:
-- Como resolver um determinado problema ex: `Como alterar a cor de fundo de uma div com CSS`.
-- Como executar uma determinada tarefa ex: `Como consumir um webservice REST com JavaScript`.
+- Como resolver um determinado problema ex: `Como alterar a cor de fundo de um Scaffold`.
+- Como executar uma determinada tarefa ex: `Como consumir um webservice REST com Dart`.
 - Como otimizar um trecho de código ex: `Como percorrer todas as propriedades de um objeto rapidamente`.
 
 Lembre-se de pesquisar bastante antes de abrir uma pergunta/discussão, existem boas chances da sua dúvida já ter sido respondida e estar documentada pela internet.
@@ -128,10 +128,6 @@ Na aba **Discussions** basta clicar no botão **New discussion**, na próxima p�
 
 Após selecionar a categoria, basta adicionar um título bem detalhado e caprichar no texto. Lembre-se de seguir [os passos corretos](CONTRIBUTING.md) ao criar uma pergunta/discussão.
 
-### Trechos de código
-
-Para facilitar a visualização de quem vai ler sua pergunta/discussão, coloque seu código no [Codepen](https://codepen.io/) (recomendadíssimo) ou no Gist. Assim quem for te ajudar conseguirá ver seu código em funcionamento, facilitando as dicas.
-
 ## Código de Conduta
 
 Como qualquer grupo de discussões, existem algumas regras que devem ser seguidas para proporcionar uma melhor experiência à todos.
@@ -142,64 +138,98 @@ Como qualquer grupo de discussões, existem algumas regras que devem ser seguida
 
 Comporte-se profissionalmente. Os participantes que violarem tais regras serão convidados a se retirar ou banidos dada a gravidade de suas ações.
 
-## Linguagem
-
-**Todas** as issues devem ser abertas e respondidas em **pt-br**.
 
 ## Perguntas frequentes
 
 Várias dúvidas e perguntas de como iniciar a carreira e por onde começar a estudar, nossa sugestão é que você inicie lendo essas issues e logo depois abra uma nova com suas dúvidas:
 
-### Técnicas e metodologias
+### Roadmap Flutter/Dart
 
-- [#229](https://github.com/frontendbr/forum/discussions/229) Livros
-- [#480](https://github.com/frontendbr/forum/discussions/480) Como funciona o processo de **Code Review** onde vocês trabalham?
-
-### HTML
-
-- [#38](https://github.com/frontendbr/forum/discussions/38) Referências sobre HTML e um monte de conhecimento sobre o que é uma linguagem de marcação e de transporte
-
-### JavaScript
-
-- [#90](https://github.com/frontendbr/forum/discussions/90) Paradigmas de programação com JavaScript
-- [#270](https://github.com/frontendbr/forum/discussions/270) Roadmap sobre por onde ir no JavaScript
+- [Click aqui!](https://github.com/Flutterando/roadmap)
 
 
 ## Como receber atualizações do Fórum
 
 Você pode receber atualizações do Fórum no seu email ou via notificações do GitHub, basta clicar em **Watch**, em seguida, basta ir em **Custom** e marcar a opção de **Discussions**.
 
-![Menu mostrando como marcar para habilitar opção de assistir notificações](assets/watch.png)
 
-## Extra
+## Packages com suporte da Flutterando  👇
 
-No Slack [Frontend Brasil](http://frontendbrasil.slack.com/) tem o canal `#forum` que está integrado com o **GitHub**, desta forma, você sempre saberá quando alguém postou uma nova **issue**.
+- **[Flutter Modular][flutter_modular_link]**: Modular handles the dependency injection system and route management, through the engine of modular_core. 
+- **[Flutter Triple][flutter_triple_link]**: Implementation of the Segmented State Pattern, nicknamed Triple. The SSP segments the state into 3 reactive parts, the state value (state), the error object (error), and the state loading action (loading).
+- **[Asuka][asuka_link]**: Snackbars, Dialogs and more, built for simple use and with clean architecture in mind. 
+- **[Hasura Connect][hasura_connect_link]**: This package is designed to facilitate **[Hasura's][hasura_link]** integration with Flutter applications, leveraging the full power of Graphql.
+- **[Slidy][slidy_link]**: CLI script pipeline, package manager and template generator for Flutter. Generate Modules, Pages, Widgets, BLoCs, Controllers, tests and more. 
+- **[Flutterando Analysis][flutterando_analysis_link]**: Our community's set of Linter rules. Used in our projects and packages, it's quality is guaranteed by some of our best developers. 
+- **[Uno][uno_link]**: A HTTP client inspired by Axios, brings a simple and robust experience to crossplatform apps in Flutter and server apps in Dart. It boasts control over responses that is not as easily possible in some of it's alternatives.
+- **[Dartion][dartion_link]**: Dartion is a RESTful mini web server based on JSON. But this is not just a port of the popular json-server for Dart, as it adds other features like JWT Authentication.
+- **[Clean Dart][clean_dart_link]**: Dartion is a RESTful mini web server based on JSON. But this is not just a port of the popular json-server for Dart, as it adds other features like JWT Authentication.
+- **[Dart & Flutter Roadmap][roadmap_link]**: This is the community's recommended roadmap to learn Dart and Flutter in an easy and thoughtful way, preparing a well built base before learning more advanced topics. It is complemented by the community's and it's partners content on Medium and YouTube. 
 
-**Entre e participe!**
 
-Badge | Link | Participar
------ | ---- | ----------
-![Participantes](http://frontendbrasil-slack.herokuapp.com/badge.svg) | [Frontend Brasil](http://frontendbrasil.slack.com/) | [Participar](http://frontendbrasil-slack.herokuapp.com/)
+<br>
 
-## Apoiadores e Parceiros
+## Outros links da comunidade Flutterando
 
-<p align="center">
-  <a href="http://bit.ly/dne-custom-frontendbr"><img src="https://user-images.githubusercontent.com/3299130/43040168-26d560aa-8d13-11e8-9cea-765a07f2b7b0.png" alt="Logo do DevNaEstrada" width="240" /></a>
-</p>
+[![Discord](https://img.shields.io/discord/509072164666867753?label=Discord&logo=Discord&style=social)][Discord]
+
+[![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UCplT2lzN6MHlVHHLt6so39A?label=Flutterando%20%28in%20portuguese%29&style=social)][Youtube Channel]
+
+[![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UC0zjz07GM2Aow4biJyGn43g?label=Fluttering%20%28in%20english%29&style=social)][Youtube Channel 2]
+
+[![Telegram](https://img.shields.io/badge/Telegram-9k+-green?style=social&logo=telegram)][Telegram]
+
+[![Website](https://img.shields.io/static/v1?label=Web&message=www.flutterando.com.br&color=blue)][Website]
+
+[![Pub Dev](https://img.shields.io/static/v1?label=Pub%20Dev&message=Flutterando&color=red)][Pub Dev]
+
+[![Other useful links](https://img.shields.io/static/v1?label=Other%20Links&message=https://linktr.ee/flutterando&color=green?style=social)][Other useful links]
+
+
+
+<br>
+
+## Apoio
+
+<a href="https://fteam.dev">
+    <img src="https://raw.githubusercontent.com/Flutterando/README-Template/master/readme_assets/sponsor-logo.png" alt="Logo" width="120">
+  </a>
+
+
+
+<!-- Images -->
+[logo_black]: https://avatars.githubusercontent.com/u/48289443?s=100&u=de5d7e8511a21d986fe4ddf410d6dd474bff3233&v=4
+
+[banner_flutterando]: https://raw.githubusercontent.com/flutterando/.github/main/assets/1128x191.png
+[banner_flutterando1]: https://raw.githubusercontent.com/flutterando/.github/main/assets/1500x500.png
+[banner_flutterando2]: https://raw.githubusercontent.com/flutterando/.github/main/assets/851x315.png
+
+
+<!-- Project Links -->
+[flutter_modular_link]: https://pub.dev/packages/flutter_modular
+[flutter_triple_link]: https://pub.dev/packages/flutter_triple
+[asuka_link]: https://pub.dev/packages/asuka
+[slidy_link]: https://pub.dev/packages/slidy
+[hasura_connect_link]: https://pub.dev/packages/hasura_connect
+[flutterando_analysis_link]: https://pub.dev/packages/flutterando_analysis
+[uno_link]: https://pub.dev/packages/uno
+[dartion_link]: https://pub.dev/packages/dartion
+[clean_dart_link]: https://github.com/flutterando/Clean-Dart
+[roadmap_link]: https://github.com/flutterando/roadmap
+[hasura_link]:https://hasura.io
+
+
+<!-- Contact Links (where to find Flutterando) -->
+[Discord]: https://discord.gg/qNBDHNARja
+[Telegram]: https://t.me/flutterando
+[Website]: https://www.flutterando.com.br
+[Youtube Channel]: https://www.youtube.com.br/flutterando
+[Youtube Channel 2]: https://www.youtube.com/channel/UC0zjz07GM2Aow4biJyGn43g
+[Pub Dev]: https://pub.dev/publishers/flutterando.com.br/packages
+[Other useful links]: https://linktr.ee/flutterando
 
 
 ## Licença
 
-[MIT](LICENSE) &copy; FrontendBR
+[MIT](LICENSE) &copy; Flutterando
 
-## Repositórios da Front-End Brasil
-
-- [Fórum](https://github.com/frontendbr/forum)
-- [Eventos](https://github.com/frontendbr/eventos)
-- [Vagas](https://github.com/frontendbr/vagas)
-- [Me Contrata](https://github.com/frontendbr/me-contrata)
-- [Compra e Venda](https://github.com/frontendbr/compra-e-venda)
-- [Doe um Livro](https://github.com/frontendbr/doe-um-livro)
-- [Poste Mais!](https://github.com/frontendbr/poste-mais)
-- [Open Source](https://github.com/frontendbr/open-source)
-- [Sugestões](https://github.com/frontendbr/sugestoes)
