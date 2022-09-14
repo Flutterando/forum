@@ -163,7 +163,7 @@ Você pode receber atualizações do Fórum no seu email ou via notificações d
 - **[Flutterando Analysis][flutterando_analysis_link]**: Our community's set of Linter rules. Used in our projects and packages, it's quality is guaranteed by some of our best developers. 
 - **[Uno][uno_link]**: A HTTP client inspired by Axios, brings a simple and robust experience to crossplatform apps in Flutter and server apps in Dart. It boasts control over responses that is not as easily possible in some of it's alternatives.
 - **[Dartion][dartion_link]**: Dartion is a RESTful mini web server based on JSON. But this is not just a port of the popular json-server for Dart, as it adds other features like JWT Authentication.
-- **[Clean Dart][clean_dart_link]**: Dartion is a RESTful mini web server based on JSON. But this is not just a port of the popular json-server for Dart, as it adds other features like JWT Authentication.
+- **[Clean Dart][clean_dart_link]**: This is the community's suggested approach to Clean Architecture, applied to Dart/Flutter.
 - **[Dart & Flutter Roadmap][roadmap_link]**: This is the community's recommended roadmap to learn Dart and Flutter in an easy and thoughtful way, preparing a well built base before learning more advanced topics. It is complemented by the community's and it's partners content on Medium and YouTube. 
 
 
